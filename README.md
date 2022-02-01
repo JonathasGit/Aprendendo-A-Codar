@@ -15,7 +15,7 @@ Estarei enviando os vídeos para o Youtube também, cada vídeo vai ter um tema,
 
 Estrutura HTML; <br>
 Tags <br>
-
+Encaixar o CSS
 
 Vamos ter muita coisa boa pessoal.<br>
 
